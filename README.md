@@ -35,4 +35,4 @@ We welcome contributions. Read our [Contribution guidelines](CONTRIBUTING.md) fo
 
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [License.md](License.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [LICENSE.md](LICENSE.md)
