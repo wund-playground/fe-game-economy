@@ -34,5 +34,5 @@ TO DO - Not yet available
 We welcome contributions. Read our [Contribution guidelines](CONTRIBUTING.md) for more information
 
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [LICENSE.md](LICENSE.md)
+## [LICENSE](LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
