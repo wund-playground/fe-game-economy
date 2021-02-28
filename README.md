@@ -1,5 +1,5 @@
 # Flexible Ecosystems - Game Economy
-Game Economy As a Service
+Game Economy Service
 
 **State of the project:** Unstable and in active development
 
