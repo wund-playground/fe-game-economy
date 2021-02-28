@@ -1,9 +1,9 @@
-# fedeconomy
+# Flexible Ecosystems - Game Economy
 Game Economy As a Service
 
 **State of the project:** Unstable and in active development
 
-# Economy Service
+# Game Economy Service
 
 Service that allows you to control your game's economy as a standalone module.
 API development is in progress.
@@ -35,4 +35,4 @@ We welcome contributions. Read our [Contribution guidelines](CONTRIBUTING.md) fo
 
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [License.md](License.md)
