@@ -6,7 +6,7 @@ Game Economy Service
 # Game Economy Service
 
 Service that allows you to control your game's economy as a standalone module.
-API development is in progress.
+API development is in planning stage.
 
 - [What is the economy service?](#what-is-the-economy-service)
 - [Requirements](#requirements)
